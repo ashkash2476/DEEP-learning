@@ -15,9 +15,15 @@ ________________________________
 Segmentation:boundry around an object
 Mask: mask around an object(sillhoute structure)
 Fully connected layer:obsolete
-Channels:
-Gradient:color changing from 1 to another
 
+Channels:An instrument in an orchestra,All the e's 1 channel e channel
+e channel container of a very specific information
+e is a feature, full channel: feature map (all the e's)
+what extracts e : feature extractor,kernel,filter 3*3 matrix
+
+
+Gradient:color changing from 1 to another
+4 layers; edges combine to make texture -> pattern ->parts of objects-> objects
 ______________________
 Resources
 Andrev karpati
