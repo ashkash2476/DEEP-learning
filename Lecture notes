@@ -2,7 +2,7 @@
 #    LECTURE 1   #
 ###################
 Unknown terms
-_______________
+_____________________________________________
 *receptive field
 *advance convolutions
 *pose estimation
@@ -14,7 +14,8 @@ _______________
 *latent vector: make person look old with condition
 *Optimizers:adam, adagrad, HDD with momentum 
 *ReLu PreLu PRELU
-________________________________ 
+*transfer learning
+_______________________________________________________________ 
 Segmentation:boundry around an object
 Mask: mask around an object(sillhoute structure)
 Fully connected layer:obsolete
@@ -30,7 +31,13 @@ output of the channel is the output of the festure extractor
 
 Gradient:color changing from 1 to another
 4 layers; edges combine to make texture -> pattern ->parts of objects-> objects
-______________________
+
+Network should see the whole picture
+Recprive field of the last layer must atleast be the size of the object youre looking at
+panning:going outside the image copy of last pixel
+
+Convolution
+_____________________________________________________________
 Resources
 Andrev karpati
 sanity archive
