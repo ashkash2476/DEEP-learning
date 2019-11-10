@@ -9,7 +9,20 @@ _______________
 *Masked RCNN
 *GAN's VAR
 *latent vector: make person look old with condition
+*Optimizers:adam, adagrad, HDD with momentum 
+*ReLu PreLu PRELU
 ________________________________ 
 Segmentation:boundry around an object
 Mask: mask around an object(sillhoute structure)
+Fully connected layer:obsolete
+Channels:
+Gradient:color changing from 1 to another
 
+______________________
+Resources
+Andrev karpati
+sanity archive
+
+
+
+ 
