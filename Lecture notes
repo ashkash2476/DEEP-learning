@@ -1,3 +1,6 @@
+###################
+#    LECTURE 1   #
+###################
 Unknown terms
 _______________
 *receptive field
@@ -16,10 +19,13 @@ Segmentation:boundry around an object
 Mask: mask around an object(sillhoute structure)
 Fully connected layer:obsolete
 
-Channels:An instrument in an orchestra,All the e's 1 channel e channel
+Channels:An instrument in an orchestra,All the e's 1 channel e channel 
+Channel is a blue print that contains all the information that 
 e channel container of a very specific information
+each channel containes very specific
 e is a feature, full channel: feature map (all the e's)
-what extracts e : feature extractor,kernel,filter 3*3 matrix
+what extracts e : feature extractor,kernel,filter, 3*3 matrix
+output of the channel is the output of the festure extractor
 
 
 Gradient:color changing from 1 to another
