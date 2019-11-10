@@ -34,7 +34,13 @@ Gradient:color changing from 1 to another
 
 Network should see the whole picture
 Recprive field of the last layer must atleast be the size of the object youre looking at
+global receptive field of the last layer must be the size of the object
 panning:going outside the image copy of last pixel
+max pooling
+functional API
+ 
+
+
 
 Convolution
 _____________________________________________________________
