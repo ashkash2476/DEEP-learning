@@ -50,4 +50,18 @@ sanity archive
 
 
 
+#Lecture 2
+
+1 * 1: feature merger
+
+Why max pooling across 2*2 output?
+
+unless RNN or LSTM dont use sigmoid activation function
+momentum in SGD
+ fully connected layers : super heavy replaced by convolution
+  
+  Global average pooling
+  
+  
+
  
