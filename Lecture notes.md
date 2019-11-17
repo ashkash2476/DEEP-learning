@@ -62,6 +62,6 @@ momentum in SGD
   
   Global average pooling
   
-  
+  Activation function: 
 
  
